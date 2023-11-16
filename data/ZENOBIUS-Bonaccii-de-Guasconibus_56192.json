@@ -1,0 +1,737 @@
+{
+  "_id": "6485eb083e5d2d3083b2faf6",
+  "reference": "56192",
+  "identity": {
+    "name": [
+      {
+        "value": "ZENOBIUS Bonaccii de Guasconibus",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zenobius BONACCII de Guasconibus$",
+        "meta": {
+          "names": [
+            "Zenobius BONACCII de Guasconibus"
+          ]
+        }
+      },
+      {
+        "value": "$Zenobio GUASCONI$",
+        "meta": {
+          "names": [
+            "Zenobio GUASCONI"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "O.P.",
+        "meta": {}
+      }
+    ],
+    "datesOfLife": [
+      {
+        "value": "%1325-1383%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1325
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1383
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1337-1383%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1337
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1383
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "activityMediane": [
+      {
+        "value": "%1359%",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1359
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Étudiant",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "birthPlace": [
+      {
+        "value": "Italie (Toscane : Florence) ;",
+        "meta": {
+          "places": [
+            "Italie",
+            "Toscane",
+            "Florence"
+          ]
+        }
+      }
+    ],
+    "diocese": [
+      {
+        "value": "Diocèse de Florence ?",
+        "meta": {
+          "institutions": [
+            "Florence"
+          ]
+        }
+      }
+    ]
+  },
+  "relationalInsertion": {
+    "socialClassOrigin": [
+      {
+        "value": "Bourgeoisie ?",
+        "meta": {}
+      }
+    ],
+    "familyNetwork": [
+      {
+        "value": "Son père est $Piero di NARDO$ ;",
+        "meta": {
+          "names": [
+            "Piero di NARDO"
+          ]
+        }
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Florence %1341% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1341
+            }
+          ],
+          "places": [
+            "Florence"
+          ]
+        },
+        "comment": [
+          "\t/Il étudie la logique au couvent (dominicain) de £Florence (Santa Maria Novella) %1341% ;"
+        ]
+      },
+      {
+        "value": "Sienne %1344% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1344
+            }
+          ],
+          "places": [
+            "Sienne"
+          ]
+        },
+        "comment": [
+          "\t/Il étudie la philosophie au couvent (dominicain) de £Sienne %1348% ;"
+        ]
+      },
+      {
+        "value": "Paris ;",
+        "meta": {
+          "places": [
+            "Paris"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Étudiant (Paris) entre %1348% et %1356% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1348
+            },
+            {
+              "type": "SIMPLE",
+              "date": 1356
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        },
+        "comment": [
+          "\t/Il suit le cursus du lectorat ?"
+        ]
+      },
+      {
+        "value": "Maître en théologie (Florence) %1369%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1369
+            }
+          ],
+          "places": [
+            "Florence"
+          ]
+        }
+      }
+    ],
+    "universityCollege": [
+      {
+        "value": "Couvent (dominicain) de Paris (Jacobins).",
+        "meta": {
+          "places": [
+            "Jacobins"
+          ],
+          "institutions": [
+            "Paris"
+          ]
+        }
+      }
+    ]
+  },
+  "ecclesiasticalCareer": {
+    "regularOrder": [
+      {
+        "value": "O.P. : frère (dominicain) du couvent (dominicain) de Florence (Santa Maria Novella) %1337% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1337
+            }
+          ],
+          "institutions": [
+            "Florence"
+          ]
+        }
+      }
+    ],
+    "regularFunctions": [
+      {
+        "value": "Prieur (dominicain) de San=Miniato %1356% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1356
+            }
+          ],
+          "institutions": [
+            "San=Miniato"
+          ]
+        }
+      },
+      {
+        "value": "Prieur (dominicain) de Florence (Santa-Maria Novella) %1362% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1362
+            }
+          ],
+          "institutions": [
+            "Florence"
+          ]
+        },
+        "comment": [
+          "\t/Il a joué un rôle important dans le développement du complexe architectural du couvent et dans la commande des fresques à $Andrea di BONAIUTO$ ;"
+        ]
+      },
+      {
+        "value": "Définiteur au chapitre=général (dominicain) de Bologne %1380% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1380
+            }
+          ],
+          "institutions": [
+            "Bologne"
+          ]
+        }
+      }
+    ]
+  },
+  "professionalCareer": {
+    "professorOrPerceptor": [
+      {
+        "value": "Lecteur in arte et naturalibus au couvent (dominicain) de Pérouse ;",
+        "meta": {
+          "institutions": [
+            "Pérouse"
+          ]
+        }
+      },
+      {
+        "value": "Lecteur in arte et naturalibus au couvent (dominicain) de Pise ;",
+        "meta": {
+          "institutions": [
+            "Pise"
+          ]
+        }
+      },
+      {
+        "value": "Lecteur in arte et naturalibus au couvent (dominicain) de Rome ;",
+        "meta": {
+          "institutions": [
+            "Rome"
+          ]
+        }
+      }
+    ],
+    "universityFunction": [
+      {
+        "value": "Florence (Faculté de Théologie : Maître-régent %1369%) ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1369
+            }
+          ],
+          "places": [
+            "Florence"
+          ],
+          "institutions": [
+            "Théologie"
+          ]
+        }
+      },
+      {
+        "value": "Florence (Maître-régent en théologie au couvent dominicain) ;",
+        "meta": {
+          "places": [
+            "Florence"
+          ],
+          "institutions": [
+            "dominicain)"
+          ]
+        }
+      },
+      {
+        "value": "Sienne (Maître-régent en théologie au couvent dominicain) ;",
+        "meta": {
+          "places": [
+            "Sienne"
+          ],
+          "institutions": [
+            "dominicain)"
+          ]
+        }
+      }
+    ]
+  },
+  "textualProduction": {
+    "religion": {
+      "value": "Auteur actif dans le champ religiux :",
+      "meta": {},
+      "opus": [
+        {
+          "title": [
+            {
+              "value": "&Sermones&",
+              "meta": {
+                "titles": [
+                  "Sermones"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "?",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. ?",
+              "meta": {}
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. : ‘",
+              "meta": {}
+            }
+          ],
+          "mainTitle": "Sermones"
+        },
+        {
+          "title": [
+            {
+              "value": "&(Volgarizzamento homilae Ps. Origenis s. Evang. Joh.)&",
+              "meta": {
+                "titles": [
+                  "(Volgarizzamento homilae Ps. Origenis s. Evang. Joh.)"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "?",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. Firenze, BML Gaddiana Reliq. 115 ;",
+              "meta": {}
+            },
+            {
+              "value": "MS. Firenze, BNC Pal. 16 ;",
+              "meta": {}
+            },
+            {
+              "value": "MS. B. Riccardiana 1313.",
+              "meta": {}
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. : ‘Maria Maddalena stabat ad monumentum foris plorans …’ ;",
+              "meta": {}
+            }
+          ],
+          "versionWork": [
+            {
+              "value": "Traduction en italien du latin du $Pseudo-ORIGENE$.",
+              "meta": {
+                "names": [
+                  "Pseudo-ORIGENE"
+                ]
+              }
+            }
+          ],
+          "mainTitle": "Volgarizzamento homilae Ps. Origenis s. Evang. Joh."
+        },
+        {
+          "title": [
+            {
+              "value": "&(Volgarizzamento epistolae Hieronymi ad Demetriades)&",
+              "meta": {
+                "titles": [
+                  "(Volgarizzamento epistolae Hieronymi ad Demetriades)"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "?",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. Firenze, BNC Pal. 5 ;",
+              "meta": {}
+            },
+            {
+              "value": "MS. B. Riccardiana ?",
+              "meta": {}
+            },
+            {
+              "value": "MS. B. Riccardiana ?",
+              "meta": {}
+            },
+            {
+              "value": "MS. B. Riccardiana ?",
+              "meta": {}
+            },
+            {
+              "value": "MS. B. Riccardiana 1361.",
+              "meta": {}
+            },
+            {
+              "value": "MS. Siena, BC I V 11.",
+              "meta": {}
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. : ‘Se io fossi de excellentissimo ingegnio …’ ;",
+              "meta": {}
+            }
+          ],
+          "versionWork": [
+            {
+              "value": "Traduction en italien d’une lettre de $Saint JÉRÔME$.",
+              "meta": {
+                "names": [
+                  "Saint JÉRÔME"
+                ]
+              }
+            }
+          ],
+          "mainTitle": "Volgarizzamento epistolae Hieronymi ad Demetriades"
+        },
+        {
+          "title": [
+            {
+              "value": "&(Volgarizzamento epistolae Hieronymi ad Sigismonda)&",
+              "meta": {
+                "titles": [
+                  "(Volgarizzamento epistolae Hieronymi ad Sigismonda)"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "?",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. ?",
+              "meta": {}
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. :",
+              "meta": {}
+            }
+          ],
+          "versionWork": [
+            {
+              "value": "Traduction en italien d’une lettre de $Saint JÉRÔME$.",
+              "meta": {
+                "names": [
+                  "Saint JÉRÔME"
+                ]
+              }
+            }
+          ],
+          "modernEdition": [
+            {
+              "value": "In PUOTI (B.), éd., Naples, 1836.",
+              "meta": {}
+            }
+          ],
+          "mainTitle": "Volgarizzamento epistolae Hieronymi ad Sigismonda"
+        }
+      ]
+    },
+    "history": {
+      "value": "Auteur actif dans le champ historique :",
+      "meta": {},
+      "opus": [
+        {
+          "title": [
+            {
+              "value": "&Liber Novus&",
+              "meta": {
+                "titles": [
+                  "Liber Novus"
+                ]
+              }
+            }
+          ],
+          "titleVariant": [
+            {
+              "value": "&Memoriale&",
+              "meta": {
+                "titles": [
+                  "Memoriale"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "?%1360-1370%",
+              "meta": {
+                "dates": [
+                  {
+                    "type": "INTERVAL",
+                    "startDate": {
+                      "type": "SIMPLE",
+                      "date": 1360
+                    },
+                    "endDate": {
+                      "type": "SIMPLE",
+                      "date": 1370
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "value": "/ ‘Ricordanze’ autographe.",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. Florence, A. Conv. S. Maria Novella.",
+              "meta": {},
+              "comment": [
+                "\t//http://www.mirabileweb.it/author/zanobi-guasconi-frater-op-n-1325-m-1383-author/246473 ;"
+              ]
+            }
+          ],
+          "mainTitle": "Liber Novus"
+        }
+      ]
+    }
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "KAPPELI: IV, 488-489 ;",
+        "meta": {}
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "DBI (Sonia GENTILI) : //https://www.treccani.it/enciclopedia/zenobi-guasconi_(Dizionario-Biografico)/ ;",
+        "meta": {}
+      },
+      {
+        "value": "MIRABILE :",
+        "meta": {}
+      },
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2023.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZENOBIUS Bonaccii de Guasconibus",
+  "link": "/individus/56192-zenobiusbonacciideguasconibus",
+  "extras": {
+    "activityMediane": 1360
+  },
+  "raw": [
+    "<1a> 56192 ",
+    "<1b>\tZENOBIUS Bonaccii de Guasconibus",
+    "<1c>\t$Zenobius BONACCII de Guasconibus$",
+    "<1c>\t$Zenobio GUASCONI$",
+    "<1d>\tO.P.",
+    "<1e>\t%1325-1383%",
+    "<1f>\t%1337-1383%",
+    "<1g>\t%1359%",
+    "<1k>\tÉtudiant",
+    "<2a>\t*Italie (*Toscane : *Florence) ;",
+    "<2b>\tDiocèse de £Florence ?",
+    "<3a>\tBourgeoisie ?",
+    "<3b>\tSon père est $Piero di NARDO$ ;",
+    "<5b>\t*Florence %1341% ;",
+    "<5b>\t/Il étudie la logique au couvent (dominicain) de £Florence (Santa Maria Novella) %1341% ;",
+    "<5b>\t*Sienne %1344% ;",
+    "<5b>\t/Il étudie la philosophie au couvent (dominicain) de £Sienne %1348% ;",
+    "<5b>\t*Paris ;",
+    "<5c>\tÉtudiant (*Paris) entre %1348% et %1356% ;",
+    "<5c>\t/Il suit le cursus du lectorat ?",
+    "<5c>\tMaître en théologie (*Florence) %1369%.",
+    "<5e>\tCouvent (dominicain) de £Paris (*Jacobins).",
+    "<6d>\tO.P. : frère (dominicain) du couvent (dominicain) de £Florence (Santa Maria Novella) %1337% ;",
+    "<6f>\tPrieur (dominicain) de £San=Miniato %1356% ;",
+    "<6f>\tPrieur (dominicain) de £Florence (Santa-Maria Novella) %1362% ;",
+    "<6f>\t/Il a joué un rôle important dans le développement du complexe architectural du couvent et dans la commande des fresques à $Andrea di BONAIUTO$ ;",
+    "<6f>\tDéfiniteur au chapitre=général (dominicain) de £Bologne %1380% ;",
+    "<7a>\tLecteur in arte et naturalibus au couvent (dominicain) de £Pérouse ;",
+    "<7a>\tLecteur in arte et naturalibus au couvent (dominicain) de £Pise ;",
+    "<7a>\tLecteur in arte et naturalibus au couvent (dominicain) de £Rome ;",
+    "<7b>\t*Florence (Faculté de £Théologie : Maître-régent %1369%) ;",
+    "<7b>\t*Florence (Maître-régent en théologie au couvent £dominicain) ;",
+    "<7b>\t*Sienne (Maître-régent en théologie au couvent £dominicain) ;",
+    "<19>\tŒuvre écrite en latin.",
+    "<20>\tAuteur actif dans le champ religiux :",
+    "<20a1>\t&Sermones&",
+    "<<b>>\t?",
+    "<<c>>\tMS. ?",
+    "<<cc>>\tInc. : ‘",
+    "<20a2>\t&(Volgarizzamento homilae Ps. Origenis s. Evang. Joh.)&",
+    "<<b>>\t?",
+    "<<c>>\tMS. Firenze, BML Gaddiana Reliq. 115 ;",
+    "<<c>>\tMS. Firenze, BNC Pal. 16 ;",
+    "<<c>>\tMS. B. Riccardiana 1313.",
+    "<<cc>>\tInc. : ‘Maria Maddalena stabat ad monumentum foris plorans …’ ;",
+    "<<g>>\tTraduction en italien du latin du $Pseudo-ORIGENE$.",
+    "<20a3>\t&(Volgarizzamento epistolae Hieronymi ad Demetriades)&",
+    "<<b>>\t?",
+    "<<c>>\tMS. Firenze, BNC Pal. 5 ;",
+    "<<c>>\tMS. B. Riccardiana ?",
+    "<<c>>\tMS. B. Riccardiana ?",
+    "<<c>>\tMS. B. Riccardiana ?",
+    "<<c>>\tMS. B. Riccardiana 1361.",
+    "<<c>>\tMS. Siena, BC I V 11.",
+    "<<cc>>\tInc. : ‘Se io fossi de excellentissimo ingegnio …’ ;",
+    "<<g>>\tTraduction en italien d’une lettre de $Saint JÉRÔME$.",
+    "<20a4>\t&(Volgarizzamento epistolae Hieronymi ad Sigismonda)&",
+    "<<b>>\t?",
+    "<<c>>\tMS. ?",
+    "<<cc>>\tInc. : ",
+    "<<g>>\tTraduction en italien d’une lettre de $Saint JÉRÔME$.",
+    "<<i>>\tIn PUOTI (B.), éd., Naples, 1836.",
+    "<50>\tAuteur actif dans le champ historique :",
+    "<50a1>\t&Liber Novus&",
+    "<<v>>\t&Memoriale&",
+    "<<b>>\t?%1360-1370%",
+    "<<b>>\t/ ‘Ricordanze’ autographe.",
+    "<<c>>\tMS. Florence, A. Conv. S. Maria Novella.",
+    "C   BIBLIOGRAPHIE\t",
+    "<99a>\tKAPPELI: IV, 488-489 ;",
+    "<99c>\tDBI (Sonia GENTILI) : //https://www.treccani.it/enciclopedia/zenobi-guasconi_(Dizionario-Biografico)/ ;",
+    "<99c>\tMIRABILE :",
+    "<99c>\t//http://www.mirabileweb.it/author/zanobi-guasconi-frater-op-n-1325-m-1383-author/246473 ;",
+    "<99c>\t STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2023."
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "_id": "603545fd4672165db8199a2c",
+  "reference": "51948",
+  "identity": {
+    "name": [
+      {
+        "value": "ZENO de Castellione",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zeno de CASTELLIO$",
+        "meta": {
+          "names": [
+            "Zeno de CASTELLIO"
+          ]
+        }
+      },
+      {
+        "value": "$Zanon de CASTIGLIONE$",
+        "meta": {
+          "names": [
+            "Zanon de CASTIGLIONE"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Évêque de Lisieux",
+        "meta": {
+          "institutions": [
+            "Lisieux"
+          ]
+        }
+      }
+    ],
+    "datesOfLife": [
+      {
+        "value": "%    -1459%",
+        "meta": {
+          "dates": []
+        }
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1420-1459%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1420
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1459
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Extérieur",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "birthPlace": [
+      {
+        "value": "Lombardie (Milan ?) ?",
+        "meta": {
+          "places": [
+            "Lombardie",
+            "Milan"
+          ]
+        },
+        "comment": [
+          "\t/Le berceau de la famille est *Castiglione=d’Olonna."
+        ]
+      }
+    ],
+    "diocese": [
+      {
+        "value": "Diocèse de Milan ?",
+        "meta": {
+          "institutions": [
+            "Milan"
+          ]
+        }
+      }
+    ]
+  },
+  "relationalInsertion": {
+    "socialClassOrigin": [
+      {
+        "value": "Noble.",
+        "meta": {}
+      }
+    ],
+    "familyNetwork": [
+      {
+        "value": "Son oncle est le $Cardinal Branda de CASTIGLIONE$ ;",
+        "meta": {
+          "names": [
+            "Cardinal Branda de CASTIGLIONE"
+          ]
+        }
+      },
+      {
+        "value": "Son cousin (ou son frère ?) est $Jean de CASTIGLIONE, évêque de Coutances$.",
+        "meta": {
+          "names": [
+            "Jean de CASTIGLIONE, évêque de £Coutances"
+          ],
+          "institutions": [
+            "Coutances$."
+          ]
+        }
+      }
+    ],
+    "memberOfGroups": [
+      {
+        "value": "Partisan des Anglais : il est très actif pour appuyer le duc de Bedford ;",
+        "meta": {
+          "places": [
+            "Anglais"
+          ],
+          "institutions": [
+            "Bedford"
+          ]
+        },
+        "comment": [
+          "\t/Mais il prêtera serment de fidélité à $CHARLES VII, roi de £France$, dès que possible, en l’occurrence en %1450% (26 mai) à *Argentan."
+        ]
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Caen.",
+        "meta": {
+          "places": [
+            "Caen"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Docteur en droit (Pavie ?).",
+        "meta": {
+          "places": [
+            "Pavie"
+          ]
+        }
+      }
+    ],
+    "universityCollege": [
+      {
+        "value": "?",
+        "meta": {},
+        "comment": [
+          "\t/Il a des liens avec le Collège de la £Sorbonne, où $Jean GERMAIN$ emprunte des livres pour lui, mais il ne semble être ni hôte, ni socius."
+        ]
+      }
+    ]
+  },
+  "ecclesiasticalCareer": {
+    "secularPosition": [
+      {
+        "value": "Évêque de Lisieux %1425-1432% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1425
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1432
+              }
+            }
+          ],
+          "institutions": [
+            "Lisieux"
+          ]
+        }
+      },
+      {
+        "value": "Évêque de Bayeux %1432-1459%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1432
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1459
+              }
+            }
+          ],
+          "institutions": [
+            "Bayeux"
+          ]
+        }
+      }
+    ]
+  },
+  "professionalCareer": {
+    "universityFunction": [
+      {
+        "value": "Caen (Université : Chancelier) ;",
+        "meta": {
+          "places": [
+            "Caen"
+          ]
+        },
+        "comment": [
+          "\t/Il en a surveillé la création, et en a été le premier chancelier. "
+        ]
+      }
+    ],
+    "representation": [
+      {
+        "value": "Il participe au concile de Bâle %1434-1439% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1434
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1439
+              }
+            }
+          ],
+          "institutions": [
+            "Bâle"
+          ]
+        }
+      },
+      {
+        "value": "Il participe au concile de Florence en %1439% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1439
+            }
+          ],
+          "institutions": [
+            "Florence"
+          ]
+        }
+      }
+    ]
+  },
+  "bibliography": {
+    "bookReferences": [
+      {
+        "value": "FOFFANO (T.), Umanisti italiani in Normandia nel secolo XV, &Rinascimento&, XV, 1964, 3-39 ;",
+        "meta": {
+          "titles": [
+            "Rinascimento"
+          ]
+        }
+      },
+      {
+        "value": "NEVEUX (F.), Les Italiens des diocèses de Bayeux et Lisieux du XIIIe au XVe siècle, &Annales de Normandie&, 2000, 29, 97-115 ;",
+        "meta": {
+          "titles": [
+            "Annales de Normandie"
+          ]
+        }
+      },
+      {
+        "value": "VEILLIARD (J.) et JULLIEN de POMMEROL (M.-H.), &Le registre de prêts de la Bibliothèque du Collège de Sorbonne.1402-1536&, Paris, 2000 ;",
+        "meta": {
+          "titles": [
+            "Le registre de prêts de la Bibliothèque du Collège de Sorbonne.1402-1536"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZENO de Castellione",
+  "link": "/individus/51948-zenodecastellione",
+  "extras": {
+    "activityMediane": 1439
+  },
+  "raw": [
+    "<1a> 51948 ",
+    "<1b>\tZENO de Castellione",
+    "<1c>\t$Zeno de CASTELLIO$",
+    "<1c>\t$Zanon de CASTIGLIONE$",
+    "<1d>\tÉvêque de £Lisieux",
+    "<1e>\t%    -1459%",
+    "<1f>\t%1420-1459%",
+    "<1k> \tExtérieur",
+    "<2a>\t*Lombardie (*Milan ?) ?",
+    "<2a>\t/Le berceau de la famille est *Castiglione=d’Olonna.",
+    "<2b>\tDiocèse de £Milan ?",
+    "<3a>\tNoble.",
+    "<3b>\tSon oncle est le $Cardinal Branda de CASTIGLIONE$ ;",
+    "<3b>\tSon cousin (ou son frère ?) est $Jean de CASTIGLIONE, évêque de £Coutances$.",
+    "<5b>\t*Pavie ?",
+    "<3h>\tPartisan des *Anglais : il est très actif pour appuyer le duc de £Bedford ;",
+    "<3h>\t/Mais il prêtera serment de fidélité à $CHARLES VII, roi de £France$, dès que possible, en l’occurrence en %1450% (26 mai) à *Argentan.",
+    "<5b>\t*Caen.",
+    "<5c>\tDocteur en droit (*Pavie ?).",
+    "<5e>\t?",
+    "<5e>\t/Il a des liens avec le Collège de la £Sorbonne, où $Jean GERMAIN$ emprunte des livres pour lui, mais il ne semble être ni hôte, ni socius.",
+    "<6b>\tÉvêque de £Lisieux %1425-1432% ;",
+    "<6b>\tÉvêque de £Bayeux %1432-1459%.",
+    "<7b>\t*Caen (Université : Chancelier) ;",
+    "<7b>\t/Il en a surveillé la création, et en a été le premier chancelier. ",
+    "<7l>\tIl participe au concile de £Bâle %1434-1439% ;",
+    "<7l>\tIl participe au concile de £Florence en %1439% ;",
+    "<18.1.>\tIl possédait le MS. Berlin, SBB Hamilton 648/1 ($VALÈRE=MAXIME$), le MS. Paris, BF lat. 5826 ($PLUTARQUE$, $LUCIEN$, $CORNELIUS=NEPOS$), le MS. Paris, BF lat. 8537 ($CICÉRON$), le MS. Città=del=Vaticano, BAV Rgina lat. 1321 ($PLATON$, $XÉNOPHON$, $BASILE$, $PLUTARQUE$, $VÉGÈCE$, $Leonardo BRUNI$) ;",
+    "<r>\tVEILLIARD 690.",
+    "<19>\tPas d'œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99b>\tFOFFANO (T.), Umanisti italiani in Normandia nel secolo XV, &Rinascimento&, XV, 1964, 3-39 ;",
+    "<99b>\tNEVEUX (F.), Les Italiens des diocèses de Bayeux et Lisieux du XIIIe au XVe siècle, &Annales de Normandie&, 2000, 29, 97-115 ;",
+    "<99b>\tVEILLIARD (J.) et JULLIEN de POMMEROL (M.-H.), &Le registre de prêts de la Bibliothèque du Collège de Sorbonne.1402-1536&, Paris, 2000 ;",
+    "<99c>\tSTUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021."
+  ]
+}

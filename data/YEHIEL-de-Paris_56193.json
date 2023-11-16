@@ -1,0 +1,298 @@
+{
+  "_id": "6486bde53e5d2d3083b2fb0e",
+  "reference": "56193",
+  "identity": {
+    "name": [
+      {
+        "value": "YEHIEL de Paris",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Yehiel de PARIS$",
+        "meta": {
+          "names": [
+            "Yehiel de PARIS"
+          ]
+        }
+      },
+      {
+        "value": "$Yehiel BEN JOSEPH$",
+        "meta": {
+          "names": [
+            "Yehiel BEN JOSEPH"
+          ]
+        }
+      },
+      {
+        "value": "$Vives MELDENSIS$",
+        "meta": {
+          "names": [
+            "Vives MELDENSIS"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Rabbin",
+        "meta": {}
+      }
+    ],
+    "datesOfLife": [
+      {
+        "value": "%    -1268%",
+        "meta": {
+          "dates": []
+        },
+        "comment": [
+          "\t/Il serait mort à *Haifa en %1268% ?"
+        ]
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1218-1268%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1218
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1268
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "activityMediane": [
+      {
+        "value": "%1243%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1243
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Extérieur",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "birthPlace": [
+      {
+        "value": "Ile-de-France (Meaux) ;",
+        "meta": {
+          "places": [
+            "Ile-de-France",
+            "Meaux"
+          ]
+        }
+      }
+    ],
+    "diocese": [
+      {
+        "value": "Diocèse de Meaux.",
+        "meta": {
+          "institutions": [
+            "Meaux."
+          ]
+        }
+      }
+    ]
+  },
+  "relationalInsertion": {
+    "studentProfessorRelationships": [
+      {
+        "value": "Son maître est $Judah BEN ISAAC$ ($Messer Leon de PARIS$) ;",
+        "meta": {
+          "names": [
+            "Judah BEN ISAAC",
+            "Messer Leon de PARIS"
+          ]
+        }
+      }
+    ]
+  },
+  "professionalCareer": {
+    "professorOrPerceptor": [
+      {
+        "value": "Maître de la Yeshiva de Paris.",
+        "meta": {
+          "institutions": [
+            "Paris."
+          ]
+        },
+        "comment": [
+          "\t/Il est le rabbin qui défend la position judaïque lors du débat sur le *Talmud, qui commence en %1240% avec la saisie des livres des synagogues par les *Dominicains, puis par le débat contradictoire avec $Nicolas DONIN$, puis tout une dérie d’action jusqu’au débat avec des maîtres en théologie et treize maîtres en décret, le tout se concluant par la condamnation solennelle du *Talmud par $Guillaume d’AUVERGNE, évêque de £Paris$ à *Paris en %1248% (15 mai) ;"
+        ],
+        "reference": [
+          "\tCUP: I, 209-210 (n° 178).",
+          "\tGOROCHOV 533-535."
+        ]
+      }
+    ]
+  },
+  "textualProduction": {
+    "religion": {
+      "value": "Auteur actif dans le champ religieux :",
+      "meta": {},
+      "opus": [
+        {
+          "title": [
+            {
+              "value": "&(Participation au débat sur le Talmud)&",
+              "meta": {
+                "places": [
+                  "Talmud&"
+                ],
+                "titles": [
+                  "(Participation au débat sur le *Talmud)"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "%1248%.",
+              "meta": {
+                "dates": [
+                  {
+                    "type": "SIMPLE",
+                    "date": 1248
+                  }
+                ]
+              }
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. ?",
+              "meta": {}
+            }
+          ],
+          "modernEdition": [
+            {
+              "value": "In BENHAMOU (J.), dir. et trad., &Rabbi Yéhiel de Paris, Rabbi Yossef Ben Nathan Official, La Dispute de Paris&, Marseille.",
+              "meta": {
+                "titles": [
+                  "Rabbi Yéhiel de Paris, Rabbi Yossef Ben Nathan Official, La Dispute de Paris"
+                ]
+              }
+            }
+          ],
+          "mainTitle": "Participation au débat sur le Talmud"
+        }
+      ]
+    }
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "CUP: I, 209-210 (n° 178) ;",
+        "meta": {}
+      },
+      {
+        "value": "&Gallia Judaica&, 1897 ;",
+        "meta": {
+          "titles": [
+            "Gallia Judaica"
+          ]
+        }
+      }
+    ],
+    "bookReferences": [
+      {
+        "value": "DAHAN (G.) et NICOLAS (E.), dir., &Le brûlement du Talmud à Paris 1242-1244&, Paris, 1999 ;",
+        "meta": {
+          "titles": [
+            "Le brûlement du Talmud à Paris 1242-1244"
+          ]
+        }
+      },
+      {
+        "value": "GOROCHOV (N.), &Naissance de l’Université. Les écoles de Paris d’Innocent III à Thomas d’Aquin (v. 1200-v. 1245)&, Paris, 2012 ;",
+        "meta": {
+          "titles": [
+            "Naissance de l’Université. Les écoles de Paris d’Innocent III à Thomas d’Aquin (v. 1200-v. 1245)"
+          ]
+        }
+      },
+      {
+        "value": "SCHWARZFUCHS (S.), La vie interne des communautés juives du Nord de la France au temps de Rabbi Yéhiel et de ses collègues, dans &Le brûlement du Talmud à Paris 1242-1244%&, Paris, 1999 ;",
+        "meta": {
+          "dates": [],
+          "titles": [
+            "Le brûlement du Talmud à Paris 1242-1244%"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2023).",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "YEHIEL de Paris",
+  "link": "/individus/56193-yehieldeparis",
+  "extras": {
+    "activityMediane": 1243
+  },
+  "raw": [
+    "<1a> 56193 ",
+    "<1b>\tYEHIEL de Paris",
+    "<1c>\t$Yehiel de PARIS$",
+    "<1c>\t$Yehiel BEN JOSEPH$",
+    "<1c>\t$Vives MELDENSIS$",
+    "<1d>\tRabbin",
+    "<1e>\t%    -1268%",
+    "<1e>\t/Il serait mort à *Haifa en %1268% ?",
+    "<1f>\t%1218-1268%",
+    "<1g>\t%1243%.",
+    "<1k>\tExtérieur",
+    "<2a>\t*Ile-de-France (*Meaux) ;",
+    "<2b>\tDiocèse de £Meaux.",
+    "<3l>\tSon maître est $Judah BEN ISAAC$ ($Messer Leon de PARIS$) ;",
+    "<7a>\tMaître de la Yeshiva de £Paris.",
+    "<10a>\t/Il est le rabbin qui défend la position judaïque lors du débat sur le *Talmud, qui commence en %1240% avec la saisie des livres des synagogues par les *Dominicains, puis par le débat contradictoire avec $Nicolas DONIN$, puis tout une dérie d’action jusqu’au débat avec des maîtres en théologie et treize maîtres en décret, le tout se concluant par la condamnation solennelle du *Talmud par $Guillaume d’AUVERGNE, évêque de £Paris$ à *Paris en %1248% (15 mai) ;",
+    "<r>\tCUP: I, 209-210 (n° 178).",
+    "<r>\tGOROCHOV 533-535.",
+    "<19>\tPas d’œuvre connue.",
+    "<20>\tAuteur actif dans le champ religieux :",
+    "<20a1>\t&(Participation au débat sur le *Talmud)&",
+    "<<b>>\t%1248%.",
+    "<<c>>\tMS. ?",
+    "<<i>>\tIn BENHAMOU (J.), dir. et trad., &Rabbi Yéhiel de Paris, Rabbi Yossef Ben Nathan Official, La Dispute de Paris&, Marseille.",
+    "C      BIBLIOGRAPHIE",
+    "<99a>\tCUP: I, 209-210 (n° 178) ;",
+    "<99a>\t&Gallia Judaica&, 1897 ;",
+    "<99b>\tDAHAN (G.) et NICOLAS (E.), dir., &Le brûlement du Talmud à Paris 1242-1244&, Paris, 1999 ;",
+    "<99b>\tGOROCHOV (N.), &Naissance de l’Université. Les écoles de Paris d’Innocent III à Thomas d’Aquin (v. 1200-v. 1245)&, Paris, 2012 ;",
+    "<99b>\tSCHWARZFUCHS (S.), La vie interne des communautés juives du Nord de la France au temps de Rabbi Yéhiel et de ses collègues, dans &Le brûlement du Talmud à Paris 1242-1244%&, Paris, 1999 ;",
+    "<99c>\tSTUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2023)."
+  ]
+}

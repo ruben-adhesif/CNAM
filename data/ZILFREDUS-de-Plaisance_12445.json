@@ -1,0 +1,227 @@
+{
+  "_id": "5de693417b945ca77ef12538",
+  "reference": "12445",
+  "identity": {
+    "name": [
+      {
+        "value": "ZILFREDUS de Plaisance",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zilfredus de PLAISANCE$",
+        "meta": {
+          "names": [
+            "Zilfredus de PLAISANCE"
+          ]
+        }
+      },
+      {
+        "value": "$Sigfridus FUSTEN de Placentia$",
+        "meta": {
+          "names": [
+            "Sigfridus FUSTEN de Placentia"
+          ]
+        }
+      },
+      {
+        "value": "$Zygfryd FUSTEN de Placentia$",
+        "meta": {
+          "names": [
+            "Zygfryd FUSTEN de Placentia"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Magister",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1346-1346%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1346
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1346
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Extérieur",
+        "meta": {}
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Bologne.",
+        "meta": {
+          "places": [
+            "Bologne"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Maître ès arts ?.",
+        "meta": {}
+      }
+    ]
+  },
+  "textualProduction": {
+    "philosophy": {
+      "value": "Auteur actif dans le domaine philosophique :",
+      "meta": {},
+      "opus": [
+        {
+          "title": [
+            {
+              "value": "&Quaestiones 3 disputatae&",
+              "meta": {
+                "titles": [
+                  "Quaestiones 3 disputatae"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "%1346% à Bologne",
+              "meta": {
+                "dates": [
+                  {
+                    "type": "SIMPLE",
+                    "date": 1346
+                  }
+                ],
+                "places": [
+                  "Bologne"
+                ]
+              }
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. Kraków, B. Jagiell. Jagell. 748, f. 9v ;",
+              "meta": {
+                "id": "37413"
+              }
+            },
+            {
+              "value": "MS. Città=del=Vaticano, BAV Ottobon. lat. 318, f. 168-170 ;",
+              "meta": {
+                "id": "37414"
+              }
+            },
+            {
+              "value": "MS. Città=del=Vaticano, BAV Ottobon. lat. 318, f. 212v-218.",
+              "meta": {}
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. : \"Utrum intellectus possibilis ad actum intellectionis ...\" ;",
+              "meta": {}
+            },
+            {
+              "value": "Inc. : \"Utrum in continuis permanentibus sit dare aliquid extensive ...\" (MS. Kraków).",
+              "meta": {},
+              "comment": [
+                "\t//http://www.mirabileweb.it/author/zilfredus-fusten-de-placentia-v-1346-author/236399   "
+              ]
+            }
+          ],
+          "mainTitle": "Quaestiones 3 disputatae"
+        }
+      ]
+    }
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "GLORIEUX MA: 469",
+        "meta": {}
+      }
+    ],
+    "bookReferences": [
+      {
+        "value": "ERMATINGER (Ch.), &Medieval Studies&, XVI, 1954, 44.",
+        "meta": {
+          "titles": [
+            "Medieval Studies"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "MIRABILE, Roberto GAMBERINI :",
+        "meta": {}
+      },
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/01/2019.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZILFREDUS de Plaisance",
+  "link": "/individus/12445-zilfredusdeplaisance",
+  "extras": {
+    "activityMediane": 1346
+  },
+  "raw": [
+    "<1a>\t12445",
+    "<1b>\tZILFREDUS de Plaisance",
+    "<1c>\t$Zilfredus de PLAISANCE$",
+    "<1c>     $Sigfridus FUSTEN de Placentia$",
+    "<1c>     $Zygfryd FUSTEN de Placentia$",
+    "<1d>    Magister",
+    "<1f>\t%1346-1346%",
+    "<1k>    Extérieur",
+    "<5b>\t*Bologne.",
+    "<5c>        Maître ès arts ?.",
+    "<19>\tOeuvre écrite en latin.",
+    "<21>\tAuteur actif dans le domaine philosophique :",
+    "<21a1>\t&Quaestiones 3 disputatae&",
+    "<<b>>\t%1346% à *Bologne",
+    "<<c>>\tMS. Kraków, B. Jagiell. Jagell. 748, f. 9v ;",
+    "<<c>>\tMS. Città=del=Vaticano, BAV Ottobon. lat. 318, f. 168-170 ;",
+    "<<c>>\tMS. Città=del=Vaticano, BAV Ottobon. lat. 318, f. 212v-218.",
+    "<<cc>>\tInc. : \"Utrum intellectus possibilis ad actum intellectionis ...\" ;",
+    "<<cc>>\tInc. : \"Utrum in continuis permanentibus sit dare aliquid extensive ...\" (MS. Kraków).",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tGLORIEUX MA: 469",
+    "<99b>\tERMATINGER (Ch.), &Medieval Studies&, XVI, 1954, 44.",
+    "<99c>\tMIRABILE, Roberto GAMBERINI :",
+    "<99c>\t//http://www.mirabileweb.it/author/zilfredus-fusten-de-placentia-v-1346-author/236399   ",
+    "<99c>\t STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/01/2019.",
+    "",
+    ""
+  ]
+}

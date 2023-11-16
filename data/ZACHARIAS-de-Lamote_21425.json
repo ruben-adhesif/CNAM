@@ -1,0 +1,151 @@
+{
+  "_id": "5de68e447b945ca77ef10d7b",
+  "reference": "21425",
+  "identity": {
+    "name": [
+      {
+        "value": "ZACHARIAS de Lamote",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zacharias de LAMOTE$",
+        "meta": {
+          "names": [
+            "Zacharias de LAMOTE"
+          ]
+        },
+        "reference": [
+          "\tSPIRGATIS 49."
+        ]
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Maître",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1464-1464%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1464
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1464
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Maître",
+        "meta": {}
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Paris %1464% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1464
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        },
+        "comment": [
+          "\t/Il est un des membres de l'université s'acquittant d'une taxe le 30 mars %1464% pour financer une ambassade à la cour royale ;"
+        ],
+        "reference": [
+          "\tSPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 à la p. 49."
+        ]
+      }
+    ],
+    "grades": [
+      {
+        "value": "Maître (Paris) en %1464% ?",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1464
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        },
+        "reference": [
+          "\tSPIRGATIS 49."
+        ]
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "SPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 (accessible sur http://www.archive/org) ;",
+        "meta": {
+          "titles": [
+            "Beihefte zum Zentralblatt für Bibliothekswesen"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2016.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZACHARIAS de Lamote",
+  "link": "/individus/21425-zachariasdelamote",
+  "extras": {
+    "activityMediane": 1464
+  },
+  "raw": [
+    "<1a>\t21425",
+    "<1b>\tZACHARIAS de Lamote",
+    "<1c>\t$Zacharias de LAMOTE$",
+    "<r>\tSPIRGATIS 49.",
+    "<1d>\tMaître",
+    "<1f>\t%1464-1464%",
+    "<1k>\tMaître",
+    "<5b>\t*Paris %1464% ;",
+    "<5b>\t/Il est un des membres de l'université s'acquittant d'une taxe le 30 mars %1464% pour financer une ambassade à la cour royale ;",
+    "<r>\tSPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 à la p. 49.",
+    "<5c>\tMaître (*Paris) en %1464% ?",
+    "<r>\tSPIRGATIS 49.",
+    "<19>\tPas d’œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tSPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 (accessible sur http://www.archive/org) ;",
+    "<99c>\tSTUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2016.",
+    ""
+  ]
+}
