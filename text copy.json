@@ -1,0 +1,21 @@
+{
+    "_comment":
+        "Exemple d'utilisation dans .\\Nested_entity.ipynb",
+    "NER":{
+        "Bertrandus": 
+            "En l'an de grâce mil deux cent cinquante-cinq, Bertrandus de Longueville quitta sa campagne natale pour explorer les rues pavées de Paris. Telle une étoile resplendissante, il arpenta les boulevards, ébloui par la grandeur de la cité. Parmi les troubadours et les marchands, Bertrandus découvrit l'amour dans le regard d'une belle Parisienne. Leurs cœurs se rejoignirent, et ils vécurent une romance éternelle, unissant ainsi la campagne et la ville dans une mélodie enchanteresse.",
+        "short":[
+            "De maistre pierre daylly aumosnier du roy messire pour faire faire et commander une librari en ce present college",
+            "Dudit jehan Richier pour cause d'une plasterre quil tient du seigneur de bonneuil par laquelle",
+            "De maistre bernart heanart maistre de ce present college lequelle par son compte davant doit de rest a ycelluy LCVI lb. XX s. parisis comme il appert par la fin dicelui compte"
+        ],
+        "long":
+            "eodem anno Scolastice virgini, LXXIIII Ib. et XX d. Di­stributum LXXIII Ib. et XXX d. Reliquit in officio butirum et caseos valentes II t-, papaveris X metrete. In promptis et in debitis VII t., siliginis in Strvbinga III scaf., ordei I scaf., VIII scaf. avene. Equum valentem II t. Duos boves valentes XII s., porcos II valentes LXXX d., vaccas utiles LI, iuven- cas V, oves LXXII, alvearia V.\n1317\nAnno Domini MoCCCoXVIIo Agathe virginis' facta ra- cione cum infirmatio, fratre Levpoldo2. Receperat in uni­verso XVIII Ib. d. Distribuerat autem per idem tempus XXV Ib. et sic distributum excrevit in VII Ib. et habuit pre manibus V bernas valentes III Ib., promptorum d. XII s. In debitis certis eciam XII s., butirum valens I Ib., caseos XXXIIII valentes VI s., porcum I valentem XXX d. Lecti­sternia: Lectos XI, stratos VI, capitalia VIII, birros V et I tegumentum. Vaccas utiles XVII.\nEodem anno facta computacione cum fratre Vlr(ico), magi­stro pistrine. Receperat XI Ib. et LXXI d. Distributum ex­crevit in LXI d. Reliquit in officio XXII vaccas, quarum sunt utiles XIIII, equos ad currus V, poledros II, porcos IIII valentes I t. et unum iuvenem poledrum valentem II t., quem sibi dominus abbas recepit. Item dominus abbas re­cepit sibi XV porcos valentes I t. Reliquit eciam alvearia XII. In debitis et in promptis IIII t. et LX d. Hec computa- cio facta est in crastino sancti Albini episcopi."
+    },
+    "OCR":{
+        "eng":
+            "English texts for beginners to practice reading and comprehension online and for free. Practicing your comprehension of written English will both improve your vocabulary and understanding of grammar and word order. The texts below are designed to help you develop while giving you an instant evaluation of your progress.",
+        "found":[]
+    }
+        
+}
