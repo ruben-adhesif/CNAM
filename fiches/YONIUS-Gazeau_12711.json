@@ -1,0 +1,240 @@
+{
+  "_id": "5de68e447b945ca77ef10d7a",
+  "reference": "12711",
+  "identity": {
+    "name": [
+      {
+        "value": "YONIUS Gazeau",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Yonius GAZEAU$",
+        "meta": {
+          "names": [
+            "Yonius GAZEAU"
+          ]
+        }
+      },
+      {
+        "value": "$Yonius GUYZEAU$",
+        "meta": {
+          "names": [
+            "Yonius GUYZEAU"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Bachelier en droit canon",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1477-1477%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1477
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1477
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Gradué",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "diocese": [
+      {
+        "value": "Diocèse de Chartres.",
+        "meta": {
+          "institutions": [
+            "Chartres."
+          ]
+        }
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Paris %1477-1477%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1477
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1477
+              }
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "B.Cn.L. (P) (le 11 décembre) %1477%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1477
+            }
+          ]
+        },
+        "reference": [
+          "\tFOURNIER: 2, p. 379."
+        ]
+      }
+    ]
+  },
+  "ecclesiasticalCareer": {
+    "regularOrder": [
+      {
+        "value": "O.S.B. : moine bénédictin : monastère du Bec-Hellouin (diocèse de Rouen).",
+        "meta": {
+          "institutions": [
+            "Bec-Hellouin",
+            "Rouen)."
+          ]
+        }
+      }
+    ],
+    "regularFunctions": [
+      {
+        "value": "Moine du Bec-Hellouin en %1477% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1477
+            }
+          ],
+          "institutions": [
+            "Bec-Hellouin"
+          ]
+        },
+        "reference": [
+          "\tFOURNIER: 2, p. 379."
+        ]
+      },
+      {
+        "value": "Moine du diocèse de Chartres en %1477%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1477
+            }
+          ],
+          "institutions": [
+            "Chartres"
+          ]
+        },
+        "reference": [
+          "\tFOURNIER: 2, p. 388."
+        ]
+      }
+    ]
+  },
+  "professionalCareer": {
+    "universityFunction": [
+      {
+        "value": "Lecteur de la faculté de décret (1er cours) à Paris le 19 décembre %1477%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1477
+            }
+          ],
+          "places": [
+            "Paris"
+          ],
+          "institutions": [
+            "décret"
+          ]
+        },
+        "reference": [
+          "\tFOURNIER: 2, p. 388."
+        ]
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "FOURNIER: 2, p. 379, 388 ;",
+        "meta": {}
+      },
+      {
+        "value": "SULLIVAN OSB: p. 154 (n°281).",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "YONIUS Gazeau",
+  "link": "/individus/12711-yoniusgazeau",
+  "extras": {
+    "activityMediane": 1477
+  },
+  "raw": [
+    "<1a>\t12711",
+    "<1b>\tYONIUS Gazeau",
+    "<1c>\t$Yonius GAZEAU$",
+    "<1c>\t$Yonius GUYZEAU$",
+    "<1d> Bachelier en droit canon",
+    "<1f>\t%1477-1477%",
+    "<1k> Gradué",
+    "<2b>      Diocèse de £Chartres.",
+    "<5b>\t*Paris %1477-1477%.",
+    "<5c>\tB.Cn.L. (P) (le 11 décembre) %1477%.",
+    "<r>\tFOURNIER: 2, p. 379.",
+    "<6d> O.S.B. : moine bénédictin : monastère du £Bec-Hellouin (diocèse de £Rouen).",
+    "<6f>\tMoine du £Bec-Hellouin en %1477% ;",
+    "<r>\tFOURNIER: 2, p. 379.",
+    "<6f>\tMoine du diocèse de £Chartres en %1477%.",
+    "<r>\tFOURNIER: 2, p. 388.",
+    "<7b>\tLecteur de la faculté de £décret (1er cours) à *Paris le 19 décembre %1477%.",
+    "<r>\tFOURNIER: 2, p. 388.",
+    "<19>\tPas d'œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tFOURNIER: 2, p. 379, 388 ;",
+    "<99a>\tSULLIVAN OSB: p. 154 (n°281).",
+    "",
+    ""
+  ]
+}

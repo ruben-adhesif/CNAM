@@ -7,3 +7,7 @@ Author
 - LEON Ruben
 - NASSIR Adam
 - NOËL Malvin
+
+Responble
+- LAMASSE Stéphane
+- DU MOUZA Cédric 

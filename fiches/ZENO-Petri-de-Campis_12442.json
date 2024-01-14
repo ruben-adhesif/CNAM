@@ -1,0 +1,317 @@
+{
+  "_id": "5de68e447b945ca77ef10d84",
+  "reference": "12442",
+  "identity": {
+    "name": [
+      {
+        "value": "ZENO Petri de Campis",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zeno PETRI de Campis$",
+        "meta": {
+          "names": [
+            "Zeno PETRI de Campis"
+          ]
+        }
+      },
+      {
+        "value": "$Zeno Petri de CAMPIS$",
+        "meta": {
+          "names": [
+            "Zeno Petri de CAMPIS"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Licencié en arts et en médecine.",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1462-1490%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1462
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1490
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Gradué",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "birthPlace": [
+      {
+        "value": "Pays-Bas (Overijssel : Kampen).",
+        "meta": {
+          "places": [
+            "Pays-Bas",
+            "Overijssel",
+            "Kampen"
+          ]
+        }
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Paris (Nation Anglo-allemande) %1462-1490%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1462
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1490
+              }
+            }
+          ],
+          "places": [
+            "Paris"
+          ],
+          "institutions": [
+            "Anglo-allemande)"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Bachelier ès arts (Paris) %1462% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1462
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        }
+      },
+      {
+        "value": "Licencié ès arts (Paris) %1463% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1463
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        }
+      },
+      {
+        "value": "Bachelier en médecine (Paris) %1484% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1484
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        }
+      },
+      {
+        "value": "Licencié en médecine (Paris) %1486%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1486
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        },
+        "reference": [
+          " WICK Comm.: 302-305, 307-310."
+        ]
+      }
+    ]
+  },
+  "professionalCareer": {
+    "universityFunction": [
+      {
+        "value": "Receveur de la nation allemande de l'Université de Paris en %1474-1475% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1474
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1475
+              }
+            }
+          ],
+          "institutions": [
+            "allemande",
+            "Paris"
+          ]
+        }
+      },
+      {
+        "value": "Receveur de la nation allemande de l'Université de Paris en %1480-1481% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1480
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1481
+              }
+            }
+          ],
+          "institutions": [
+            "allemande",
+            "Paris"
+          ]
+        }
+      },
+      {
+        "value": "Receveur de la nation allemande de l'Université de Paris en %1483%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1483
+            }
+          ],
+          "institutions": [
+            "allemande",
+            "Paris"
+          ]
+        },
+        "reference": [
+          " AUP: VI, .515, 567, 592."
+        ]
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "AUP: III, 130 et passim ;",
+        "meta": {}
+      },
+      {
+        "value": "AUP: VI, 515, 567, 592 ;",
+        "meta": {}
+      },
+      {
+        "value": "WICK Comm.: 302-305, 307-310 ;",
+        "meta": {}
+      },
+      {
+        "value": "WICK: II, 781 ;",
+        "meta": {}
+      },
+      {
+        "value": "WICK: III, 280 ;",
+        "meta": {}
+      }
+    ],
+    "bookReferences": [
+      {
+        "value": "WICKERSHEIMER (E.), \"Les médecins de la nation anglaise (ou allemande) de l'Université de Paris aux XIVe et XVe siècles\", &Bulletin de la Société française d'histoire de la médecine&, 1913, XII, 330 ;",
+        "meta": {
+          "titles": [
+            "Bulletin de la Société française d'histoire de la médecine"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZENO Petri de Campis",
+  "link": "/individus/12442-zenopetridecampis",
+  "extras": {
+    "activityMediane": 1476
+  },
+  "raw": [
+    "<1a>\t12442",
+    "<1b>\tZENO Petri de Campis",
+    "<1c> $Zeno PETRI de Campis$",
+    "<1c>\t$Zeno Petri de CAMPIS$",
+    "<1d> Licencié en arts et en médecine.",
+    "<1f>\t%1462-1490%",
+    "<1k> Gradué",
+    "<2a> *Pays-Bas (*Overijssel : *Kampen).",
+    "<5b>\t*Paris (Nation £Anglo-allemande) %1462-1490%.",
+    "<5c> Bachelier ès arts (*Paris) %1462% ;",
+    "<5c> Licencié ès arts (*Paris) %1463% ;",
+    "<5c> Bachelier en médecine (*Paris) %1484% ;",
+    "<5c> Licencié en médecine (*Paris) %1486%.",
+    "<r> WICK Comm.: 302-305, 307-310.",
+    "<7b> Receveur de la nation £allemande de l'Université de £Paris en %1474-1475% ;",
+    "<7b> Receveur de la nation £allemande de l'Université de £Paris en %1480-1481% ;",
+    "<7b> Receveur de la nation £allemande de l'Université de £Paris en %1483%.",
+    "<r> AUP: VI, .515, 567, 592.",
+    "<19>\tPas d'œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99a> AUP: III, 130 et passim ;",
+    "<99a> AUP: VI, 515, 567, 592 ;",
+    "<99a> WICK Comm.: 302-305, 307-310 ;",
+    "<99a> WICK: II, 781 ;",
+    "<99a> WICK: III, 280 ;",
+    "<99b> \tWICKERSHEIMER (E.), \"Les médecins de la nation anglaise (ou allemande) de l'Université de Paris aux XIVe et XVe siècles\", &Bulletin de la Société française d'histoire de la médecine&, 1913, XII, 330 ;",
+    "<99c>\tSTUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+    "",
+    "",
+    ""
+  ]
+}

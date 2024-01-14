@@ -1,0 +1,336 @@
+{
+  "_id": "5de691217b945ca77ef11b18",
+  "reference": "12437",
+  "identity": {
+    "name": [
+      {
+        "value": "ZACHARIAS de Parma",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zacharias de PARMA$",
+        "meta": {
+          "names": [
+            "Zacharias de PARMA"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Astrologue ?",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1281-1282%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1281
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1282
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Incertain",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "birthPlace": [
+      {
+        "value": "Italie, Émilie (?Parme).",
+        "meta": {
+          "places": [
+            "Italie",
+            "Émilie",
+            "Parme"
+          ]
+        }
+      }
+    ],
+    "diocese": [
+      {
+        "value": "Parma ?",
+        "meta": {
+          "places": [
+            "Parma"
+          ]
+        }
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "?",
+        "meta": {},
+        "comment": [
+          "\t/On ne sait quelle université cet auteur a fréquenté à la fin du XIIIe siècle ; il semble avoir suivi la *Curie à *Viterbe et à *Orvieto, et montre un penchant certain pour l’astrologie ;"
+        ],
+        "reference": [
+          "\tEBBESEN."
+        ]
+      }
+    ],
+    "grades": [
+      {
+        "value": "Maître ès arts",
+        "meta": {}
+      }
+    ]
+  },
+  "textualProduction": {
+    "philosophy": {
+      "value": "Auteur actif dans le champ philosophique :",
+      "meta": {},
+      "opus": [
+        {
+          "title": [
+            {
+              "value": "&Theorica temptativa&",
+              "meta": {
+                "titles": [
+                  "Theorica temptativa"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "%1281% ?",
+              "meta": {
+                "dates": [
+                  {
+                    "type": "SIMPLE",
+                    "date": 1281
+                  }
+                ]
+              }
+            },
+            {
+              "value": "/Estimation à partir du nom des dédicataires de l’œuvre.",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. Paris, BnF latin 16682, f.1-16v.",
+              "meta": {}
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. : \"Universis loquentibus nostra leges philosophis …\" (&epistola&) ;",
+              "meta": {
+                "titles": [
+                  "epistola"
+                ]
+              }
+            },
+            {
+              "value": "Inc. : \"De temptativo autem  post haec dicemus …\" (&Liber I&).",
+              "meta": {
+                "titles": [
+                  "Liber I"
+                ]
+              }
+            }
+          ],
+          "dedicaceOrAdress": [
+            {
+              "value": "Dédié au $Cardinal Gerardus de PARMA$ et à $Nicolas de NONANCOURT, doyen de Paris (Notre-Dame)$.",
+              "meta": {
+                "names": [
+                  "Cardinal Gerardus de PARMA",
+                  "Nicolas de NONANCOURT, doyen de £Paris (Notre-Dame)"
+                ],
+                "institutions": [
+                  "Paris"
+                ]
+              }
+            }
+          ],
+          "modernEdition": [
+            {
+              "value": "In EBBESEN (S.), Zacharias of Parma on the Art of Tempting, dans MOJSISCH (B.) et PLUTA (O.), &Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelaters. Festschrift für Kurt Flasch zu seinem 60. Geburtstag&, Amsterdam-Philadelphie, 1991, I, 211-226 ;",
+              "meta": {
+                "titles": [
+                  "Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelaters. Festschrift für Kurt Flasch zu seinem 60. Geburtstag"
+                ]
+              }
+            },
+            {
+              "value": "/$Sten EBBESEN$ édite la lettre de dédicace et plusieurs extraits du traité, dont une liste de 13 œuvres qu’il aurait écrit mais dont rien ne prouve qu’ils ont réellement existé.",
+              "meta": {
+                "names": [
+                  "Sten EBBESEN"
+                ]
+              }
+            }
+          ],
+          "mainTitle": "Theorica temptativa"
+        }
+      ]
+    },
+    "science": {
+      "value": "Auteur actif dans le champ scientifique :",
+      "meta": {},
+      "opus": [
+        {
+          "title": [
+            {
+              "value": "&Abbreviatio de tempore et motu contra Averroym&",
+              "meta": {
+                "titles": [
+                  "Abbreviatio de tempore et motu contra Averroym"
+                ]
+              }
+            }
+          ],
+          "dateAndPlace": [
+            {
+              "value": "?",
+              "meta": {}
+            }
+          ],
+          "manuscrits": [
+            {
+              "value": "MS. Paris, BnF latin 16682, f.17-20v, donné à la Sorbonne où il a été relié avec un manuscrit donné au même moment, c’est-à-dire vers %1338%, par $Jacobus de PADUA$ ;",
+              "meta": {
+                "dates": [
+                  {
+                    "type": "SIMPLE",
+                    "date": 1338
+                  }
+                ],
+                "names": [
+                  "Jacobus de PADUA"
+                ],
+                "places": [
+                  "Sorbonne"
+                ]
+              },
+              "reference": [
+                "\tEBBESEN."
+              ]
+            }
+          ],
+          "incipits": [
+            {
+              "value": "Inc. : \"",
+              "meta": {},
+              "comment": [
+                "\t// http://www.mirabileweb.it/author/zacharias-de-parma-fl-1281-1309-ca--author/21952 "
+              ]
+            }
+          ],
+          "mainTitle": "Abbreviatio de tempore et motu contra Averroym"
+        }
+      ]
+    }
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "GLORIEUX MA : 468 ;",
+        "meta": {}
+      }
+    ],
+    "bookReferences": [
+      {
+        "value": "EBBESEN (S.), Zacharias of Parm on the Art of Tempting, dans MOJSISCH (B.) et PLUTA (O.), &Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelaters. Festschrift für Kurt Flasch zu seinem 60. Geburtstag&, Amsterdam-Philadelphie, 1991, I, 211-226 ;",
+        "meta": {
+          "titles": [
+            "Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelaters. Festschrift für Kurt Flasch zu seinem 60. Geburtstag"
+          ]
+        }
+      },
+      {
+        "value": "GRABMANN (M.), &Mittelalt. Geistesl.&, II, 259 ;",
+        "meta": {
+          "titles": [
+            "Mittelalt. Geistesl."
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "MIRABILE : Federico CONTINI :",
+        "meta": {}
+      },
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/01/2019.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZACHARIAS de Parma",
+  "link": "/individus/12437-zachariasdeparma",
+  "extras": {
+    "activityMediane": 1281
+  },
+  "raw": [
+    "<1a>\t12437",
+    "<1b>\tZACHARIAS de Parma",
+    "<1c>\t$Zacharias de PARMA$",
+    "<1d>\tAstrologue ?",
+    "<1f>\t%1281-1282%",
+    "<1k>\tIncertain",
+    "<2a>\t*Italie, *Émilie (?*Parme).",
+    "<2b>\t*Parma ?",
+    "<5b>\t?",
+    "<5b>\t/On ne sait quelle université cet auteur a fréquenté à la fin du XIIIe siècle ; il semble avoir suivi la *Curie à *Viterbe et à *Orvieto, et montre un penchant certain pour l’astrologie ;",
+    "<r>\tEBBESEN.",
+    "<5c> Maître ès arts",
+    "<19>\tOeuvre écrite en latin.",
+    "<21>\tAuteur actif dans le champ philosophique :",
+    "<21a1>\t&Theorica temptativa&",
+    "<<b>>\t%1281% ?",
+    "<<b>>\t/Estimation à partir du nom des dédicataires de l’œuvre. ",
+    "<<c>>\tMS. Paris, BnF latin 16682, f.1-16v.",
+    "<<cc>>\tInc. : \"Universis loquentibus nostra leges philosophis …\" (&epistola&) ;",
+    "<<cc>>\tInc. : \"De temptativo autem  post haec dicemus …\" (&Liber I&).",
+    "<<e>>\tDédié au $Cardinal Gerardus de PARMA$ et à $Nicolas de NONANCOURT, doyen de £Paris (Notre-Dame)$.",
+    "<<i>>\tIn EBBESEN (S.), Zacharias of Parma on the Art of Tempting, dans MOJSISCH (B.) et PLUTA (O.), &Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelaters. Festschrift für Kurt Flasch zu seinem 60. Geburtstag&, Amsterdam-Philadelphie, 1991, I, 211-226 ;",
+    "<<i>>\t/$Sten EBBESEN$ édite la lettre de dédicace et plusieurs extraits du traité, dont une liste de 13 œuvres qu’il aurait écrit mais dont rien ne prouve qu’ils ont réellement existé.",
+    "<23>\tAuteur actif dans le champ scientifique :",
+    "<23a1>\t&Abbreviatio de tempore et motu contra Averroym&",
+    "<<b>>\t?",
+    "<<c>>\tMS. Paris, BnF latin 16682, f.17-20v, donné à la *Sorbonne où il a été relié avec un manuscrit donné au même moment, c’est-à-dire vers %1338%, par $Jacobus de PADUA$ ;",
+    "<r>\tEBBESEN.",
+    "<<cc>>\tInc. : \"",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tGLORIEUX MA : 468 ;",
+    "<99b>\tEBBESEN (S.), Zacharias of Parm on the Art of Tempting, dans MOJSISCH (B.) et PLUTA (O.), &Historia Philosophiae Medii Aevi. Studien zur Geschichte der Philosophie des Mittelaters. Festschrift für Kurt Flasch zu seinem 60. Geburtstag&, Amsterdam-Philadelphie, 1991, I, 211-226 ;",
+    "<99b>\tGRABMANN (M.), &Mittelalt. Geistesl.&, II, 259 ;",
+    "<99c>\tMIRABILE : Federico CONTINI :",
+    "<99c>\t// http://www.mirabileweb.it/author/zacharias-de-parma-fl-1281-1309-ca--author/21952 ",
+    "<99c>\t STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/01/2019."
+  ]
+}

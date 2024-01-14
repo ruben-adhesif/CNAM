@@ -1,0 +1,218 @@
+{
+  "_id": "60a364544672165db8199baf",
+  "reference": "52335",
+  "identity": {
+    "name": [
+      {
+        "value": "ZACHARIAS de Bureto",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zacharias de BURETO$",
+        "meta": {
+          "names": [
+            "Zacharias de BURETO"
+          ]
+        },
+        "reference": [
+          "\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES)."
+        ]
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Chanoine de Reims",
+        "meta": {
+          "institutions": [
+            "Reims"
+          ]
+        }
+      }
+    ],
+    "datesOfLife": [
+      {
+        "value": "%    -1349%",
+        "meta": {
+          "dates": []
+        },
+        "comment": [
+          "\t/Il est mort en août."
+        ]
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1335-1349%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1335
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1349
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Incertain",
+        "meta": {}
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "?",
+        "meta": {}
+      }
+    ],
+    "grades": [
+      {
+        "value": "Maître ;",
+        "meta": {},
+        "reference": [
+          "\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES)."
+        ]
+      }
+    ]
+  },
+  "ecclesiasticalCareer": {
+    "secularPosition": [
+      {
+        "value": "Chanoine de Reims en %1341-1349% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1341
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1349
+              }
+            }
+          ],
+          "institutions": [
+            "Reims"
+          ]
+        },
+        "reference": [
+          "\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES)."
+        ]
+      },
+      {
+        "value": "Chanoine de Saint-Pol %1344% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1344
+            }
+          ]
+        },
+        "comment": [
+          "\t/Il est en procès pour ce bénéfice ;"
+        ],
+        "reference": [
+          "\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES)."
+        ]
+      },
+      {
+        "value": "Chanoine de Reims (Saint-Symphorien) %1346% ;",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1346
+            }
+          ],
+          "institutions": [
+            "Reims"
+          ]
+        },
+        "reference": [
+          "\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES)."
+        ]
+      }
+    ],
+    "otherFunctions": [
+      {
+        "value": "Vicaire-général de $Jean de VIENNE, archevêque de Reims$ ;",
+        "meta": {
+          "names": [
+            "Jean de VIENNE, archevêque de £Reims"
+          ],
+          "institutions": [
+            "Reims$"
+          ]
+        }
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "FEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+        "meta": {}
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZACHARIAS de Bureto",
+  "link": "/individus/52335-zachariasdebureto",
+  "extras": {
+    "activityMediane": 1342
+  },
+  "raw": [
+    "<1a> 52335 ",
+    "<1b>     ZACHARIAS de Bureto",
+    "<1c>     $Zacharias de BURETO$",
+    "<r>\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+    "<1d>    Chanoine de £Reims",
+    "<1e>\t%    -1349%",
+    "<1e>\t/Il est mort en août.",
+    "<1f>\t%1335-1349%",
+    "<1k>     Incertain",
+    "<5b>\t ?",
+    "<5c>     Maître ;",
+    "<r>\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+    "<6b>     Chanoine de £Reims en %1341-1349% ;",
+    "<r>\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+    "<6b>\tChanoine de Saint-Pol %1344% ;",
+    "<6b>\t/Il est en procès pour ce bénéfice ;",
+    "<r>\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+    "<6b>     Chanoine de £Reims (Saint-Symphorien) %1346% ;",
+    "<r>\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+    "<6j>\tVicaire-général de $Jean de VIENNE, archevêque de £Reims$ ;",
+    "<19>     Pas d’œuvre connue.",
+    "C     BIBLIOGRAPHIE",
+    "<99a>\tFEG: III, 550, n° 647 (Reims, Pierre DESPORTES).",
+    "<99c>\tSTUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021."
+  ]
+}

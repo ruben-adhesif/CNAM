@@ -1,0 +1,142 @@
+{
+  "_id": "5de691217b945ca77ef11afb",
+  "reference": "12446",
+  "identity": {
+    "name": [
+      {
+        "value": "ZUNTA",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$ZUNTA$",
+        "meta": {
+          "names": [
+            "ZUNTA"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Maître de grammaire.",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1294-1294%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1294
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1294
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Extérieur",
+        "meta": {}
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Bologne en %1294%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1294
+            }
+          ],
+          "places": [
+            "Bologne"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Magister grammaire.",
+        "meta": {}
+      }
+    ]
+  },
+  "professionalCareer": {
+    "lawFunction": [
+      {
+        "value": "Bologne (maître-régent en %1294%).",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1294
+            }
+          ],
+          "places": [
+            "Bologne"
+          ]
+        }
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "GLORIEUX M.A.: 1456 ;",
+        "meta": {}
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZUNTA",
+  "link": "/individus/12446-zunta",
+  "extras": {
+    "activityMediane": 1294
+  },
+  "raw": [
+    "<1a>\t12446",
+    "<1b>\tZUNTA",
+    "<1c>\t        $ZUNTA$",
+    "<1d>        Maître de grammaire.",
+    "<1f>\t        %1294-1294%",
+    "<1k>        Extérieur",
+    "<5b>\t*Bologne en %1294%.",
+    "<5c>        Magister grammaire.",
+    "<7c>\t        *Bologne (maître-régent en %1294%).",
+    "<19>\tAucune oeuvre connue.",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tGLORIEUX M.A.: 1456 ;",
+    "<99c>\tSTUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+    "",
+    "",
+    ""
+  ]
+}

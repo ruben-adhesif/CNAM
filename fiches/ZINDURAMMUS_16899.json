@@ -1,0 +1,178 @@
+{
+  "_id": "5de691217b945ca77ef11af7",
+  "reference": "16899",
+  "identity": {
+    "name": [
+      {
+        "value": "ZINDURAMMUS",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$ZINDURAMMUS$",
+        "meta": {
+          "names": [
+            "ZINDURAMMUS"
+          ]
+        },
+        "reference": [
+          "\tCOURTENAY, &Parisian Scholars ...&, 228."
+        ]
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Étudiant.",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1329-1330%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1329
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1330
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Étudiant",
+        "meta": {}
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Paris %1329-1330%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1329
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1330
+              }
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Étudiant (Paris) %1349%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1349
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        }
+      }
+    ]
+  },
+  "assets": {
+    "parisHousing": [
+      {
+        "value": "Il figure dans le \"compotus receptarum bursarum\" datable entre %1329% (mi-octobre) et %1330% (mars) : \"In platea Mauberti et vico predicto\", avec 8 socii, paye 10 sous et 8 deniers.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1329
+            },
+            {
+              "type": "SIMPLE",
+              "date": 1330
+            }
+          ]
+        },
+        "reference": [
+          "\tCOURTENAY, &Parisian Scholars ...&, 228."
+        ]
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "CUP: II p.662a (n° 1184) ;",
+        "meta": {}
+      }
+    ],
+    "bookReferences": [
+      {
+        "value": "COURTENAY (W.J.), &Parisian Scholars in the Early Fourteenth Century. A social portrait&, Cambridge, 1999, 228 ;",
+        "meta": {
+          "titles": [
+            "Parisian Scholars in the Early Fourteenth Century. A social portrait"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZINDURAMMUS",
+  "link": "/individus/16899-zindurammus",
+  "extras": {
+    "activityMediane": 1329
+  },
+  "raw": [
+    "<1a>\t16899",
+    "<1b>\tZINDURAMMUS",
+    "<1c>\t$ZINDURAMMUS$",
+    "<r>\tCOURTENAY, &Parisian Scholars ...&, 228.",
+    "<1d>\tÉtudiant.",
+    "<1f>\t%1329-1330%",
+    "<1k>\tÉtudiant",
+    "<5b>\t*Paris %1329-1330%.",
+    "<5c>       Étudiant (*Paris) %1349%.",
+    "<11a>\tIl figure dans le \"compotus receptarum bursarum\" datable entre %1329% (mi-octobre) et %1330% (mars) : \"In platea Mauberti et vico predicto\", avec 8 socii, paye 10 sous et 8 deniers.",
+    "<r>\tCOURTENAY, &Parisian Scholars ...&, 228.",
+    "<19>\tPas d'œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tCUP: II p.662a (n° 1184) ;",
+    "<99b>\tCOURTENAY (W.J.), &Parisian Scholars in the Early Fourteenth Century. A social portrait&, Cambridge, 1999, 228 ;",
+    "<99c>\tSTUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+    "",
+    ""
+  ]
+}

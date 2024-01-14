@@ -1,0 +1,151 @@
+{
+  "_id": "5de68e447b945ca77ef10d77",
+  "reference": "21406",
+  "identity": {
+    "name": [
+      {
+        "value": "YMBAUDUS Plantelin",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Ymbaudus PLANTELIN$",
+        "meta": {
+          "names": [
+            "Ymbaudus PLANTELIN"
+          ]
+        },
+        "reference": [
+          "\tSPIRGATIS, 34."
+        ]
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Étudiant",
+        "meta": {}
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1464-1464%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1464
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1464
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Étudiant",
+        "meta": {}
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Paris %:1464%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "BEFORE",
+              "date": 1464
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        },
+        "comment": [
+          "\t/Il est l’un des membres de l'université s'acquittant d'une contribution à la collecte destinée à financer une ambassade à la cour royale entre le 6 et le 19 février %1464% ; "
+        ],
+        "reference": [
+          "\tSPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 à la page 34."
+        ]
+      }
+    ],
+    "grades": [
+      {
+        "value": "Étudiant (Paris) en %1464% ?",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1464
+            }
+          ],
+          "places": [
+            "Paris"
+          ]
+        },
+        "reference": [
+          "\tSPIRGATIS, 34."
+        ]
+      }
+    ]
+  },
+  "bibliography": {
+    "bookReferences": [
+      {
+        "value": "SPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 (accessible sur http://www.archive/org) ;",
+        "meta": {
+          "titles": [
+            "Beihefte zum Zentralblatt für Bibliothekswesen"
+          ]
+        }
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/09/2016.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "YMBAUDUS Plantelin",
+  "link": "/individus/21406-ymbaudusplantelin",
+  "extras": {
+    "activityMediane": 1464
+  },
+  "raw": [
+    "<1a>\t21406",
+    "<1b>\tYMBAUDUS Plantelin",
+    "<1c>\t$Ymbaudus PLANTELIN$",
+    "<r>\tSPIRGATIS, 34.",
+    "<1d>\tÉtudiant",
+    "<1f>\t%1464-1464%",
+    "<1k>\tÉtudiant",
+    "<5b>\t*Paris %:1464%.",
+    "<5b>\t/Il est l’un des membres de l'université s'acquittant d'une contribution à la collecte destinée à financer une ambassade à la cour royale entre le 6 et le 19 février %1464% ; ",
+    "<r>\tSPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 à la page 34.",
+    "<5c>\tÉtudiant (*Paris) en %1464% ?",
+    "<r>\tSPIRGATIS, 34.",
+    "<19>\tPas d’œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99b>\tSPIRGATIS (M.), Personalverzeichnis der Pariser Universität von 1464 und die darin aufgeführten Handschriften-und Pergamenthändler, &Beihefte zum Zentralblatt für Bibliothekswesen&, Leipzig, I, 1888, 1-52 (accessible sur http://www.archive/org) ;",
+    "<99c>\tSTUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/09/2016.",
+    ""
+  ]
+}

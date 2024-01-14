@@ -1,0 +1,214 @@
+{
+  "_id": "5de692337b945ca77ef12032",
+  "reference": "12438",
+  "identity": {
+    "name": [
+      {
+        "value": "ZACHARIAS de Chebsey",
+        "meta": {}
+      }
+    ],
+    "nameVariant": [
+      {
+        "value": "$Zacharias de CHEBSEY$",
+        "meta": {
+          "names": [
+            "Zacharias de CHEBSEY"
+          ]
+        }
+      }
+    ],
+    "shortDescription": [
+      {
+        "value": "Official d'Oxford",
+        "meta": {}
+      }
+    ],
+    "datesOfLife": [
+      {
+        "value": "%    -1240%?",
+        "meta": {
+          "dates": []
+        }
+      }
+    ],
+    "datesOfActivity": [
+      {
+        "value": "%1210-1240%",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1210
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1240
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "activityMediane": [
+      {
+        "value": "%1235%",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1235
+            }
+          ]
+        }
+      }
+    ],
+    "gender": [
+      {
+        "value": "male",
+        "meta": {
+          "isComment": false,
+          "isLink": false
+        }
+      }
+    ],
+    "status": [
+      {
+        "value": "Extérieur",
+        "meta": {}
+      }
+    ]
+  },
+  "origin": {
+    "birthPlace": [
+      {
+        "value": "Angleterre.",
+        "meta": {
+          "places": [
+            "Angleterre"
+          ]
+        }
+      }
+    ]
+  },
+  "curriculum": {
+    "university": [
+      {
+        "value": "Oxford.",
+        "meta": {
+          "places": [
+            "Oxford"
+          ]
+        }
+      }
+    ],
+    "grades": [
+      {
+        "value": "Maître (Oxford).",
+        "meta": {
+          "places": [
+            "Oxford"
+          ]
+        }
+      }
+    ]
+  },
+  "ecclesiasticalCareer": {
+    "ecclesiasticalStatus": [
+      {
+        "value": "Clerc marié ?",
+        "meta": {}
+      }
+    ],
+    "secularPosition": [
+      {
+        "value": "Recteur de Stoke-on-Trent %1215%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "SIMPLE",
+              "date": 1215
+            }
+          ],
+          "institutions": [
+            "Stoke-on-Trent"
+          ]
+        }
+      }
+    ]
+  },
+  "professionalCareer": {
+    "royalAdministration": [
+      {
+        "value": "Official d'Oxford %1210-1211%.",
+        "meta": {
+          "dates": [
+            {
+              "type": "INTERVAL",
+              "startDate": {
+                "type": "SIMPLE",
+                "date": 1210
+              },
+              "endDate": {
+                "type": "SIMPLE",
+                "date": 1211
+              }
+            }
+          ],
+          "institutions": [
+            "Oxford"
+          ]
+        }
+      }
+    ]
+  },
+  "bibliography": {
+    "workReferences": [
+      {
+        "value": "BRUO: I 401 ;",
+        "meta": {}
+      },
+      {
+        "value": "GLORIEUX MA: 528 ;",
+        "meta": {}
+      }
+    ],
+    "otherBases": [
+      {
+        "value": "STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+        "meta": {}
+      }
+    ]
+  },
+  "title": "ZACHARIAS de Chebsey",
+  "link": "/individus/12438-zachariasdechebsey",
+  "extras": {
+    "activityMediane": 1225
+  },
+  "raw": [
+    "<1a>\t12438",
+    "<1b>\tZACHARIAS de Chebsey",
+    "<1c>\t$Zacharias de CHEBSEY$",
+    "<1d>        Official d'Oxford",
+    "<1e>\t%    -1240%?",
+    "<1f>\t%1210-1240%",
+    "<1g>        %1235%",
+    "<1k>        Extérieur",
+    "<2a>\t*Angleterre.",
+    "<5b>\t*Oxford.",
+    "<5c>        Maître (*Oxford).",
+    "<6a>        Clerc marié ?",
+    "<6b>\tRecteur de £Stoke-on-Trent %1215%.",
+    "<7j>\tOfficial d'£Oxford %1210-1211%.",
+    "<19>\tPas d'œuvres connues.",
+    "C\tBIBLIOGRAPHIE",
+    "<99a>\tBRUO: I 401 ;",
+    "<99a>\tGLORIEUX MA: 528 ;",
+    "<99c>\tSTUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021.",
+    "",
+    "",
+    ""
+  ]
+}
