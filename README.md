@@ -1,5 +1,4 @@
 # CNAM
-
 Our project is focused on the use of prosopographical databases in history. These databases are collections of documents that gather detailed information about individuals, including names, birth and death dates, activities, social relations, and involvement in historical events. Such data is crucial for the work of historians. However, the information can sometimes be uncertain, incomplete, or biased, highlighting the need for validation or refutation through cross-referencing different sources. 
 
 ## Objectif
