@@ -1,0 +1,5 @@
+# python3 venv
+lib-env/
+git-env/
+
+output/
